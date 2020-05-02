@@ -2,7 +2,7 @@ pipeline {
 	agent any
 
    	environment {
-        DOCKER_IMAGE_NAME = "arsanyatya/capstoneimage"
+        DOCKER_IMAGE_NAME = "aarafat56/capstone"
 	}
 
 	stages {
